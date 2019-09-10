@@ -3,3 +3,6 @@ Mi poema
 Roses are red
 Violets are blue
 
+Estoy aprendiendo a programar
+pero ahora soy poeta tambien
+jajajaja
